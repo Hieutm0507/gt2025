@@ -4,6 +4,8 @@
 #       - Input: ask user root node
 #       - Output: List of edges of minimum spanning tree from 2 above algorithms also as wel weighted sum of those tree
 
+# Student: TẠ MINH HIẾU     Student ID: 22BI13161
+
 from heapq import heappush, heappop
 
 def create_weighted_graph():
