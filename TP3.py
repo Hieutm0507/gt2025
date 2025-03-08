@@ -5,6 +5,8 @@
 #       - Input node label (x)
 #       - Print out all node of subtree (x) in (Inorder)
 
+# Student: TẠ MINH HIẾU     Student ID: 22BI13161
+
 
 def create_adjacency_matrix(edges, n):
     matrix = [[0] * n for _ in range(n)]
