@@ -6,6 +6,8 @@
 #       + Return shortest path to move from (S) to (T) in (G)
 #       + Return weighted Sum of shortest path above
 
+# Student: TẠ MINH HIẾU     Student ID: 22BI13161
+
 import numpy as np
 import sys
 
